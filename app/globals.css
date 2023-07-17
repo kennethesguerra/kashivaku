@@ -25,3 +25,11 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.brass-color {
+  color: #A78038
+}
+
+.gray-metal-color {
+  color: #82828A
+}
