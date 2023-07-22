@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "id": 1, 
+      "title": "Orabella", 
+      "slug-title": "orabella-residences",
+      "type": "residences", 
+      "location": "",
+      "company": "", 
+      "thumbnail": "ora_1.jpg", 
+      "images": [
+        {}
+      ]
+    },
+    {
+      "id": 1, 
+      "title": "Prisma", 
+      "slug-title": "prisma-residences",
+      "type": "residences", 
+      "location": "",
+      "company": "", 
+      "thumbnail": "ora_2.jpg", 
+      "images": [
+        {}
+      ]
+    },
+    {
+      "id": 1, 
+      "title": "Satori", 
+      "slug-title": "satori-residences",
+      "type": "residences", 
+      "location": "",
+      "company": "", 
+      "thumbnail": "ora_3.jpg", 
+      "images": [
+        {}
+      ]
+    },
+    {
+      "id": 1, 
+      "title": "Allegra", 
+      "slug-title": "allegra-residences",
+      "type": "residences", 
+      "location": "",
+      "company": "", 
+      "thumbnail": "ora_4.jpg", 
+      "images": [
+        {}
+      ]
+    }
+  ]
+}
